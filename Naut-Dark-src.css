@@ -58,7 +58,7 @@
             
 
         /* Various Fixes */
-        	 .footer-parent {background-image: none} /* REMOVES FOOTER for Night Mode */
+
             .res .thing .tagline .author {border-radius:2px!important}
              .titlebox form.toggle,  .leavemoderator {color: gray!important; background: none!important}
              body.mod-toolbox .tb-general-button,  body.mod-toolbox li a.tb-general-button,  body.mod-toolbox .tb-bracket-button {background-color: transparent; color: gray; font-size: 9px !important; border-width: 1px 1px 1px 2px; border-color: gray; padding: 1px 4px !important; border-radius: 0px 2px 2px 0px;}
